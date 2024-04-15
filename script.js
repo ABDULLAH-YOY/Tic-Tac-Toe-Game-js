@@ -115,6 +115,7 @@ boxes.forEach((box)=>{
 const disableBoxes = ()=>{
     for(let box of boxes){
         box.disable=true;
+        alert("click to Reset button")
     }
 }
 
