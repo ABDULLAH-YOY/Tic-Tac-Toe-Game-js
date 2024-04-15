@@ -53,8 +53,8 @@ body{
 }
 @media (max-width:538px) {
     .box{
-        height: 15vh;
-        width: 15vh;
+        height: 10vh;
+        width: 10vh;
     }
 }
 @media (max-width:480px) {
@@ -65,8 +65,20 @@ body{
 }
 @media (max-width:470px) {
     .box{
-        height: 13vh;
-        width: 13vh;
+        height: 16vh;
+        width: 16vh;
+    }
+}
+@media (max-width:400px) {
+    .box{
+        height: 10vh;
+        width: 10vh;
+    }
+}
+@media (max-width:384px) {
+    .box{
+        height:9vh;
+        width: 9vh;
     }
 }
 @media (max-width:359px) {
